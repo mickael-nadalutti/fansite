@@ -1,0 +1,137 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    text-decoration: none;
+    font-family: ;
+}
+
+
+
+a { text-decoration: none;
+
+}
+
+h1 { 
+    font-size: 2rem;
+}
+
+h2 {
+    font-size: 1.5rem;
+    padding: 40px;
+}
+
+p {
+    font-size: 1.3rem;
+}
+
+/* HEADER */
+
+.photo-couverture iframe {
+    width: 70%;
+}
+
+
+.main-head {
+    background: rgb(78, 92, 95) ;
+    color: white;
+    font-size: 1.5rem;
+}
+.main-head img {
+    margin-left: -20px;
+}
+
+nav img {
+    margin-left: 5px;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    width: 95% ;
+    margin: auto;
+    padding: 1rem;
+}
+
+nav ul {
+    display: flex;
+    flex: 1 1;
+    justify-content: right;
+    align-items: center;
+    list-style: none;
+    
+}
+
+nav li {
+    margin-right: 2%;
+}
+
+nav a {
+    color: white;
+
+}
+
+#logo {
+    flex: 1 1 4
+    0rem;
+    margin-left: 10px;
+    
+}
+/* MAIN */
+
+.photo-couverture {
+    text-align: center;
+    padding: 50px;
+}
+
+
+.main {
+    background-image: url(/Users/mickaelnadalutti/Desktop/Plesk/fansite/images/background-image.jpeg);
+    background-size: 100% auto;
+    background-attachment: fixed;
+    color: white;   
+}
+
+.main h1 h2 {
+    margin: 0%;
+}
+
+.image-main article {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex: 1 1 ;
+      
+}
+
+.image-main img {
+    width: 30em;
+    margin: 1%;   
+    padding: 30px;
+}
+
+.image-main p {
+    margin: 1%;
+}
+
+
+
+
+
+
+
+
+/* FOOTER */
+
+.footer {
+    background-color: rgb(92, 93, 93);
+    display: flex;
+    flex: 1 1 30rem;
+    justify-content: space-around;
+    align-items: center;
+    list-style: none;
+
+}
+
+.footer a {
+    margin: 5px;
+}
