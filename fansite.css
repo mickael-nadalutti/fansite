@@ -2,7 +2,7 @@
     margin: 0%;
     padding: 0%;
     text-decoration: none;
-    font-family: ;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 
@@ -88,7 +88,7 @@ nav a {
     background-image: url(/Users/mickaelnadalutti/Desktop/Plesk/fansite/images/background-image.jpeg);
     background-size: 100% auto;
     background-attachment: fixed;
-    color: white;   
+    color: rgb(38, 6, 6);   
 }
 
 .main h1 h2 {
